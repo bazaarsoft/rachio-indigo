@@ -4,6 +4,8 @@
 # Copyright (c) 2014, Perceptive Automation, LLC. All rights reserved.
 # http://www.indigodomo.com
 
+# Simple comment to show a change in GitHub Desktop.
+
 try:
     import indigo
 except:

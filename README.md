@@ -9,3 +9,5 @@ Check out the [full documentation](https://github.com/IndigoDomotics/rachio-indi
 for a complete description of how to use the plugin. You can always get
 the latest release directly from the [Indigo Plugin Store](http://www.indigodomo.com/pluginstore/12/)
 or from the [Indigo Plugin Store](http://www.indigodomo.com/pluginstore/).
+
+Here are some changes to the readme.
