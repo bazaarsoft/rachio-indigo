@@ -97,3 +97,4 @@ ENV/
 
 # PyCharm/IntelliJ settings
 .idea
+.DS_Store
